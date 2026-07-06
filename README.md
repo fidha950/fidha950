@@ -41,7 +41,7 @@ To become a skilled Data Analyst by continuously learning and building real-worl
 📧 Email: **fidhasherin37@gmail.com**
 
 💼 LinkedIn:
-www.linkedin.com/in/fidha-sherin-9891a7408
+https://www.linkedin.com/in/fidhasherinmk/
 
 💻 GitHub:
 github.com/fidha950
