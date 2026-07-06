@@ -1,69 +1,47 @@
-<h1 align="center"> Hi, I'm Fidha Sherin Mk — Aspiring Data Analyst</h1>
+# 👋 Hi, I'm Fidha Sherin MK
 
-<p align="center">
- 📊 Transforming raw data into meaningful business insights through data analysis and visualization.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-informational?style=flat-square" />
-</p>
+📊 Aspiring Data Analyst passionate about learning and building real-world data analytics projects.
 
 ---
 
-## 👋 About Me
+## 🙋 About Me
 
-I'm an aspiring Data Analyst passionate about transforming raw data into meaningful insights. I enjoy working with Excel, SQL, Power BI, and Python to solve business problems through data analysis and visualization.
+I'm currently learning Data Analytics. I have completed Microsoft Excel and I'm currently learning Power BI.
 
-I'm continuously improving my analytical skills by building real-world projects and documenting my learning journey on GitHub.
+I enjoy working with data, creating dashboards, and turning raw data into meaningful insights through practical projects.
 
-- 🔭 Currently learning: Excel, SQL, Power BI, Python
-- 🌱 Focus areas: Data cleaning, dashboards, and business insights
-- 💬 Ask me about: My learning progress and current projects
-- 📌 Note: I'm early in my journey — this profile grows as I do!
+I'm documenting my learning journey by sharing my projects on GitHub.
 
 ---
 
 ## 🛠️ Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-> These are the tools I'm actively learning and practicing — I'll keep updating this section as my skills grow.
+- 📊 Microsoft Excel
+- 🌿 Git
+- 💻 GitHub
 
 ---
 
-## 🎯 Learning Goals
+## 📚 Currently Learning
 
-- [ ] Get comfortable writing intermediate to advanced SQL queries
-- [ ] Build interactive dashboards in Power BI
-- [ ] Strengthen data cleaning and preprocessing skills in Excel and Python
-- [ ] Learn data visualization libraries in Python (e.g., Matplotlib, Seaborn)
-- [ ] Practice translating data findings into clear business insights
-- [ ] Complete and document at least 5 real-world analytics projects
-- [ ] Get comfortable with Git and GitHub workflows for version control
+- 📈 Power BI
+- 📊 Data Visualization
+- 📁 Dashboard Design
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Data Analyst by continuously learning and building real-world projects.
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="fidhasherin37@gmail.com>
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+📧 Email: **fidhasherin37@gmail.com**
 
----
+💼 LinkedIn:
+www.linkedin.com/in/fidha-sherin-9891a7408
 
-<p align="center">
-  ⭐ Thanks for visiting my profile — I'm always open to feedback and connections as I grow in the data analytics field!
-</p>
+💻 GitHub:
+github.com/fidha950
