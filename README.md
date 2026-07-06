@@ -1,7 +1,7 @@
-<h1 align="center">📊 Hi, I'm Fidha Sherin Mk — Aspiring Data Analyst</h1>
+<h1 align="center"> Hi, I'm Fidha Sherin Mk — Aspiring Data Analyst</h1>
 
 <p align="center">
-  Turning raw data into clear, actionable insights — one project at a time.
+ 📊 Transforming raw data into meaningful business insights through data analysis and visualization.
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## 👋 About Me
 
-I'm a **beginner Data Analyst** on a mission to build strong, practical skills in data cleaning, visualization, and business insights. I'm currently learning **Excel, SQL, Power BI, and Python**, and I'm using this GitHub profile to document my journey through real-world projects.
+I'm an aspiring Data Analyst passionate about transforming raw data into meaningful insights. I enjoy working with Excel, SQL, Power BI, and Python to solve business problems through data analysis and visualization.
 
-I believe in learning by doing — so every project here reflects something I've actually built, practiced, or explored, not just studied in theory.
+I'm continuously improving my analytical skills by building real-world projects and documenting my learning journey on GitHub.
 
 - 🔭 Currently learning: Excel, SQL, Power BI, Python
 - 🌱 Focus areas: Data cleaning, dashboards, and business insights
