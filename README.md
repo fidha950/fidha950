@@ -44,4 +44,4 @@ To become a skilled Data Analyst by continuously learning and building real-worl
 https://www.linkedin.com/in/fidhasherinmk/
 
 💻 GitHub:
-github.com/fidha950
+https://github.com/fidha950
