@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Fidha Sherin MK
+# 👋 Hi, I'm Fidha Sherin
 
 ### 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
-I'm an aspiring Data Analyst passionate about **data cleaning, analysis, visualization, and business insights**.
+I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights through data cleaning, analysis, visualization, and dashboard development.
 
-I enjoy working with real-world datasets and turning raw data into meaningful insights through practical projects and interactive dashboards.
+I enjoy working on practical data analytics projects using real-world datasets and continuously improving my technical and analytical skills.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 * 📊 Currently learning **Data Analytics**
-* 🧹 Interested in **Data Cleaning & Data Analysis**
-* 🗃️ Working with **SQL & MySQL**
-* 📈 Building interactive dashboards using **Power BI**
-* 📑 Creating analytical reports and dashboards using **Microsoft Excel**
-* 🐍 Currently learning and practicing **Python for Data Analysis**
-* 💡 Building practical projects using real-world datasets
-* 🎯 Goal: To start my career as a **Data Analyst**
+* 📑 Working with **Microsoft Excel**
+* 🗃️ Building projects using **SQL & MySQL**
+* 📈 Creating interactive dashboards using **Power BI**
+* 🐍 Learning **Python for Data Analysis**
+* 🧹 Interested in Data Cleaning, EDA & Business Insights
+* 💡 Building practical projects with real-world datasets
+* 🎯 Aspiring to start my career as a **Data Analyst**
 
 ---
 
@@ -34,54 +34,86 @@ I enjoy working with real-world datasets and turning raw data into meaningful in
 
 ### 💻 Tools & Technologies
 
-**Excel**
-PivotTables • PivotCharts • Slicers • KPI Cards • Excel Formulas • Conditional Formatting
+**Microsoft Excel**
+
+* Excel Formulas
+* PivotTables
+* PivotCharts
+* Slicers
+* Conditional Formatting
+* Dashboard Development
 
 **SQL / MySQL**
-Data Exploration • Data Cleaning • Joins • Aggregations • GROUP BY • ORDER BY • Functions • Stored Procedures
+
+* Data Exploration
+* Data Cleaning
+* Joins
+* Aggregations
+* GROUP BY & ORDER BY
+* User-Defined Functions
+* Stored Procedures
 
 **Power BI**
-Data Modeling • DAX • Interactive Dashboards • KPI Cards • Data Visualization
+
+* Data Modeling
+* DAX
+* KPI Development
+* Interactive Dashboards
+* Data Visualization
 
 **Python**
-Pandas • NumPy • Matplotlib • Data Analysis
 
-**Other Tools**
-Git • GitHub
+* Pandas
+* NumPy
+* Matplotlib
+* Data Analysis
+
+**Other**
+
+* Git
+* GitHub
 
 ---
 
-## 📈 My Data Analytics Journey
+## 📈 My Data Analytics Workflow
 
 ```text
 Raw Data
-   ↓
+    ↓
 Data Cleaning
-   ↓
+    ↓
 Data Exploration
-   ↓
-SQL / Excel / Python Analysis
-   ↓
-Power BI Visualization
-   ↓
+    ↓
+Data Analysis
+    ↓
+Visualization
+    ↓
 Business Insights
 ```
 
----
-
 ## 📚 Currently Learning
 
-* 🐍 Python for Data Analysis
-* 📊 Power BI & DAX
-* 🗃️ Advanced SQL
-* 📈 Data Visualization
-* 💼 Data Analyst Interview Preparation
+🐍 Python for Data Analysis
+🗃️ Advanced SQL
+📊 Power BI & DAX
+📈 Data Visualization
+💼 Data Analyst Interview Preparation
 
 ---
 
 ## 🎯 Career Goal
 
-To become a skilled **Data Analyst** by continuously improving my technical skills, building real-world projects, and solving business problems using data.
+To build a career as a **Data Analyst** by developing strong technical skills, working with real-world datasets, and creating projects that demonstrate practical data analysis and business problem-solving.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [fidhasherin37@gmail.com](mailto:fidhasherin37@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/fidhasherinmk](https://www.linkedin.com/in/fidhasherinmk/)
+
+💻 **GitHub:** [github.com/fidha950](https://github.com/fidha950)
 
 ---
 
